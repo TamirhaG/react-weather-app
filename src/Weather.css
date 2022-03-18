@@ -4,6 +4,8 @@
   padding: 16px;
   border-radius: 4px;
   color: rgb(135, 135, 135);
+  background: #afd8d8;
+  text-align: center;
 }
 
 .Weather h1 {
@@ -46,4 +48,15 @@
   position: relative;
   line-height: 1;
   top: -34px;
+}
+
+.Weather .form-control {
+  border-radius: 20px;
+}
+
+.Weather .btn-primary {
+  border-radius: 20px;
+  background: #ffcdd7;
+  border: none;
+  color: black;
 }
