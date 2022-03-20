@@ -7,8 +7,12 @@
   margin-left: 5px;
 }
 
+.col {
+  padding: 0 5px;
+}
+
 .Weekdays {
   background: #cee7e8;
   border-radius: 15px;
-  padding: 2px 2px;
+  padding: 10px 3px;
 }
